@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Soal Latihan Belajar Arin 2",
+  "description": "Aplikasi Pembuat Soal Ujian \u0026 Kunci Jawaban Instan Berbasis Kurikulum dengan AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
